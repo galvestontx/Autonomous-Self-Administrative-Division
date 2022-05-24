@@ -23,3 +23,4 @@ Smart Contact will execute functions defined by Agreement which include proposit
 <sup> Virtual Voting Machine (VVM) </sup>
 
 
+***Population Count @ the Time of This Post*** : 7,889,479,065
