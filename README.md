@@ -41,4 +41,4 @@ DD-EX is not the same wt as the Damascus Dollar for Union Nations. The exchange 
 
 New Currency and Measurement System will be Published in the Near Future 
 
-21.74 [Impr.](https://github.com/galvestontx/Autonomous-Self-Administrative-Division/blob/8bccfd51213ac4855e50686789f0c7ecdae74011/US731.pdf) = [1 Damascus Dollars or 50.00 US-Exchange](https://github.com/galvestontx/MAY6_2022/blob/014a19e5395ea4b6ccc88f832809dddbd0c67d54/50d%20Coin.pdf)-exchange (not the 50.00 coin)
+21.74 [Impr.](https://github.com/galvestontx/Autonomous-Self-Administrative-Division/blob/8bccfd51213ac4855e50686789f0c7ecdae74011/US731.pdf) = [1 Damascus Dollars or 50.00 US-Exchange](https://github.com/galvestontx/MAY6_2022/blob/014a19e5395ea4b6ccc88f832809dddbd0c67d54/50d%20Coin.pdf)-exchange 
