@@ -36,7 +36,8 @@ Amount Deposited estabishing the County of Leagued Cities- 26.47 Credits (15 oz 
 7.00 Credits credited to Hatem Alghuti for time.
 
 [1 DD](https://github.com/galvestontx/MAY6_2022/blob/014a19e5395ea4b6ccc88f832809dddbd0c67d54/50d%20Coin.pdf)-exchange (not the 50.00 coin) = £1.225 
-The DD-EX is not the same wt as the Damascus Dollar for Union Nations. The exchange coin is 7.941 g Cupronickel alloy
+
+DD-EX is not the same wt as the Damascus Dollar for Union Nations. The exchange coin is 7.941 g Cupronickel alloy
 
 New Currency and Measurement System will be Published in the Near Future 
 [One Impr.](https://github.com/galvestontx/Autonomous-Self-Administrative-Division/blob/8bccfd51213ac4855e50686789f0c7ecdae74011/US731.pdf) 
