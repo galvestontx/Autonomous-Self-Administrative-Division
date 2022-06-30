@@ -34,3 +34,5 @@ For the purpose of the pilot phase "credit" shall be deemed a value refecting th
 Amount Deposited estabishing the County of Leagued Cities- 26.47 Credits (15 oz SIL)
 7.43 % county of leagued cities standard tax - held in Trust for the county  
 7.00 Credits credited to Hatem Alghuti for time.
+
+[1 DD](https://github.com/galvestontx/MAY6_2022/blob/014a19e5395ea4b6ccc88f832809dddbd0c67d54/50d%20Coin.pdf)-exchange (not the 50.00 coin) = £1.225 
