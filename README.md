@@ -32,4 +32,5 @@ Signed on or about June 26,2022.
 For the purpose of the pilot phase "credit" shall be deemed a value refecting the initial deposit.
 
 Amount Deposited estabishing the County of Leagued Cities- 26.47 Credits (15 oz SIL)
-7.43 % credited to Trust for the county  
+7.43 % county of leagued cities standard tax - held in Trust for the county  
+7.00 Credits credited to Hatem Alghuti for time.
