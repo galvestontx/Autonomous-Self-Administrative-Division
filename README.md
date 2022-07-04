@@ -50,3 +50,4 @@ Witness: 41:53 | 4:166 | 48:28 (ٱلْشَّهِيدُ)
 10.00 Damascus Dollars Deposited (coin#953) by Hatem Alghuti for Block# 2.02
 
 Declaration Published 7:18 PM CTS (8:18 EST)
+Land Area of the continental US has been purchased for 0.22 KOI per km2 (offered 0.12 NID after debt settled)
