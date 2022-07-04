@@ -49,4 +49,4 @@ Witness: 41:53 | 4:166 | 48:28 (ٱلْشَّهِيدُ)
 
 10.00 Damascus Dollars Deposited (coin#953) by Hatem Alghuti for Block# 2.02
 
-Published 7:18 PM CTS (8:18 EST)
+Declaration Published 7:18 PM CTS (8:18 EST)
