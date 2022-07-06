@@ -18,4 +18,4 @@ For Dollar Exchange | $76.77
 
 - 7.57 KOI Currency Exchange Fee (73.23 NID)
 
-Note (Because neither currencies trade directly with the USD, 1:1 exchange will change occurred only for that specific transaction. The value will change based on the S.C. Function.
+Note (Because neither currencies trade directly with the USD, 1:1 exchange would have occurred only for that specific instance or transaction. Any subsequent exchange value will reference the transaction and fluctuate based on the S.C. Function.
