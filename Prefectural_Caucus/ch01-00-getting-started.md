@@ -5,10 +5,10 @@
 ### Balance 
 |Account| Date | Description  | Debit | Credit | Currency  | Balance |
 |:---|:---:|:--- |:---:|:---:|:---:|:---:|
-| Block 2.02 | 7/04/22  | Credit Issued by Block-1  | |250.00 |US-614 | 250.00 | 
-| Block 2.02  | 7/04/22 | Commissioner Fee |  10.00 |  | US-614  | 240.00 |
-| Block 2.02  | 7/04/22 | Purchase 10,000 shares |  100.00 |  | US-614  | 140.00 |
-| Block 2.02  | 7/04/22 | Deposit 7,000 dollars Anchor  |  140.00 |  | US-614  | ----- |
+| Block 2.02 | 7/03/22  | Credit Issued by Block-1  | |250.00 |US-614 | 250.00 | 
+| Block 2.02  | 7/03/22 | Commissioner Fee |  10.00 |  | US-614  | 240.00 |
+| Block 2.02  | 7/03/22 | Purchase 10,000 shares |  100.00 |  | US-614  | 140.00 |
+| Block 2.02  | 7/03/22 | Deposit 7,000 dollars Anchor  |  140.00 |  | US-614  | ----- |
 
 
 
