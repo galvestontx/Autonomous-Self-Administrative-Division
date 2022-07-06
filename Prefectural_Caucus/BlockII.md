@@ -4,7 +4,7 @@
 | :---         |    :---|
 | Shares Issued  |  1,000,000.00    |
 | Amount   |  7.50 KOI-D Gold    |
-| Fee |       |
+| Fee | 384.85 NID      |
 |  Date  |   7/03/22      |
 
 
