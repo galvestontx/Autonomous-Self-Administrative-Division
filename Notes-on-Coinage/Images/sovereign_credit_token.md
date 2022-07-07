@@ -14,7 +14,7 @@ The amount Due to First Holder Co. for 21,000 SC is []
 
 Price of Share on 7/05/22 (150 NID) 
 
-For Dollar Exchange | $79.77
+For Dollar Exchange | $79.79
 
 
 
