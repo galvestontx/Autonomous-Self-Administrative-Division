@@ -17,6 +17,12 @@ Price of Share on 7/05/22 (150 NID)
 For Dollar Exchange | $79.79
 
 Transaction Fee | 0.0254 KOI (0.01 US731 coin)
+
 Currency Exchange Fee | $3.00
+
+
+210.00 (US731) per block
+
+
 
 Note: Neither NID nor KOI currencies trade directly with the USD, 1:1 (USD:NID) exchange would have occurred only for that specific instance or transaction. Any subsequent exchange value will reference the transaction and fluctuate based on the S.C. Function.
