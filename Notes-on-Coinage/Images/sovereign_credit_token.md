@@ -16,6 +16,6 @@ Price of Share on 7/05/22 (150 NID)
 
 For Dollar Exchange | $79.79
 
-
+Fee | 0.0254 KOI
 
 Note: Neither NID nor KOI currencies trade directly with the USD, 1:1 (USD:NID) exchange would have occurred only for that specific instance or transaction. Any subsequent exchange value will reference the transaction and fluctuate based on the S.C. Function.
