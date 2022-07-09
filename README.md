@@ -9,7 +9,7 @@ Smart Contact will execute functions defined by Agreement which include proposit
 
 ***Category*** 	| Autonomous Self -Administrative Division
 
-***Location*** 	| Americas (68 of 469 QBlocks)
+***Location*** 	| N. Americas (68 of 469 QBlocks)
 
 ***Population*** 	| 354,000 | 2022 est. 
 
